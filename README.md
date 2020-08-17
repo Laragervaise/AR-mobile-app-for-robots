@@ -1,3 +1,13 @@
+# An Augmented Reality mobile app for intuitive robot motion programming
+
+The interface allows the user to place and refine key-points in 3D with the aim to program a robot, the panda arm robot, to follow the path composed of these via-points. It uses the KDL library.
+
+## How to use it
+
+Simply load the project in android studio and run arcore-example on an android smartphone equiped with a camera.
+
+
+
 # android-urdfviewer
 
 This **Android library** implements a **ROS** (Robot Operating System) node on an Android device
