@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_drop"
+        android:title="Drop">
+
+        <menu>
+            <item
+                android:id="@+id/drop_ball"
+                android:title="Ball" />
+            <item
+                android:id="@+id/drop_cube"
+                android:title="Cube" />
+            <item
+                android:id="@+id/drop_cylinder"
+                android:title="Cylinder" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_place"
+        android:title="Place">
+
+        <menu>
+            <item
+                android:id="@+id/place_ball"
+                android:title="Ball" />
+            <item
+                android:id="@+id/place_cube"
+                android:title="Cube" />
+            <item
+                android:id="@+id/place_cylinder"
+                android:title="Cylinder" />
+            <item
+                android:id="@+id/place_cube_stack"
+                android:title="Stack of cubes" />
+            <item
+                android:id="@+id/place_cylinder_stack"
+                android:title="Stack of cylinder" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_throw"
+        android:title="Throw">
+
+        <menu>
+            <item
+                android:id="@+id/throw_ball"
+                android:title="Ball" />
+            <item
+                android:id="@+id/throw_cube"
+                android:title="Cube" />
+            <item
+                android:id="@+id/throw_cylinder"
+                android:title="Cylinder" />
+        </menu>
+    </item>
+
+</menu>

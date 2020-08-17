@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ros_connect"
+        android:title="Connect to ROS" />
+    <item
+        android:id="@+id/ros_disconnect"
+        android:title="Disconnect from ROS" />
+    <item
+        android:id="@+id/animation_play"
+        android:title="Play animation" />
+    <item
+        android:id="@+id/animation_stop"
+        android:title="Stop the animation" />
+</menu>

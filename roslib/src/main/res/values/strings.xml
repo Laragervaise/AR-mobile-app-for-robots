@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">roslib</string>
+    <string name="preferences_file_key">ch.idiap.android.roslib</string>
+    <string name="master_uri_key">masterURI</string>
+</resources>
